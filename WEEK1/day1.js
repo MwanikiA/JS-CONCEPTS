@@ -46,11 +46,14 @@
  * 
  */
 
+/**
+ * how to convert string to numbers and the reverse
+ */
 //Revenue
 //Expenses
 //Cost of goods sold
 //Profits
-
+/** 
 const costofsock = 50
 const costofbag = 50
 const costofbatch = (costofsock * 3)
@@ -65,4 +68,26 @@ const profit = revenue - ( boughtsocks + boughtbags )
 const numberofsock = 100
 const remainingsocks = 10
 
-console.log(profit)
+//console.log(profit) 
+*/
+
+
+
+
+
+//parseInt
+//parseFloat
+//Number
+
+let length = parseFloat(prompt("Length of the rectangle?"))
+let width = parseFloat(prompt("Width of the rectangle"))
+let perimeter = (length * 2) + (width * 2)
+let area = length * width
+parseInt("length")
+parseInt("width")
+console.log('area')
+console.log(area)
+console.log('perimeter')
+console.log(perimeter)
+
+
