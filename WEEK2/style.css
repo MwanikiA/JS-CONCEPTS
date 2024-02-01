@@ -1,0 +1,29 @@
+.black{
+    background-color: black;
+    color: white;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    color: black;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+.list{
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+.hidden{
+    display: none;
+}
