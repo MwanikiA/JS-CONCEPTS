@@ -13,6 +13,11 @@
  */
 // let heading = document.querySelector('#heading')
 // console.log( heading )
+/**
+ * @git commands
+ * cat index.js opens file at git
+ * nano index.js allows you to edit and create files....so create first then edit
+ */
 
 
 // let clickmebutton = document.querySelector('.click-me-button')

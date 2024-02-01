@@ -27,3 +27,28 @@ body{
 .hidden{
     display: none;
 }
+
+.child{
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+    background-color: black;
+}
+
+.innerChild{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin-left: 50px;
+}
