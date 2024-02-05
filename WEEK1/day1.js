@@ -6,6 +6,8 @@
  * you can reassign
  * var name = 'Abby'
  * name = 'njeri'
+ * 
+ * only globally scoped
  */
 
 /**
@@ -14,6 +16,8 @@
  * you can reassign
  * let name = 'Abby'
  * name = 'Yvonne'
+ * both global and locaally scoped
+ * locally scoped if within curly baracets...same with const
  */
 
 /**
@@ -70,6 +74,13 @@ const remainingsocks = 10
 
 //console.log(profit) 
 */
+/**
+ * @naming rules
+ * pascal case --- ThisIsPascalCase
+ * Camel case ------thisIsCamelCase........used for js
+ * snake case ------thi_is_snake_case
+ * 
+ */
 
 
 
