@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+
+}
+.container{
+    background-color: white;
+}
+.child{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+}

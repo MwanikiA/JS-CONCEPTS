@@ -46,5 +46,4 @@ function main() {
         game('s');
     });
 }
-
-main();
+console.log(main())
